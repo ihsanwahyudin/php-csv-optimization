@@ -1,0 +1,17 @@
+{
+    "name": "ihsan/php-csv-optimization",
+    "autoload": {
+        "psr-4": {
+            "Ihsan\\PhpCsvOptimization\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ihsan",
+            "email": "m.ihsanwahyudin@gmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.23"
+    }
+}
